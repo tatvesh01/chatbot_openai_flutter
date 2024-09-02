@@ -1,0 +1,19 @@
+{
+    "id": "cmpl-6biNrkL5FlEhzIoGojdKPiRG6ZGN3",
+    "object": "text_completion",
+    "created": 1674446767,
+    "model": "text-curie-001",
+    "choices": [
+        {
+            "text": "\n\nNarendra Modi is an Indian politician who is the current Prime Minister of India. He has been the Chief Minister of Gujarat since 2001, and is the leader of the Bharatiya Janata Party (BJP). Modi is the first Indian Prime Minister to be elected in a nationwide election.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7,
+        "completion_tokens": 61,
+        "total_tokens": 68
+    }
+}
